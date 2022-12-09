@@ -3,7 +3,7 @@ Formatter Bundle
 
 This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 9. 
 
-**All credits go the original authors.**
+**All credit goes to the original authors.**
 
 A formatter package that will help you to easily convert between various formats such as XML, JSON, CSV, etc...
 

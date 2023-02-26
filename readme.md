@@ -1,7 +1,7 @@
 Formatter Bundle
 ================
 
-This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 9. 
+This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 8 and 9. 
 
 **All credit goes to the original authors.**
 

@@ -8,7 +8,7 @@ This is a fork from https://github.com/soapbox/laravel-formatter updated to work
 A formatter package that will help you to easily convert between various formats such as XML, JSON, CSV, etc...
 
 # Goals
-The goals of this library are to allow the transfomation of data formats from one type to another.
+The goals of this library are to allow the transformation of data formats from one type to another.
 See Parsers and Formats to see supported input / output formats.
 
 # Installation

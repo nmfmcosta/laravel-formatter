@@ -1,14 +1,14 @@
 Formatter Bundle
 ================
 
-This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 8 and 9. 
+This is a fork from https://github.com/soapbox/laravel-formatter updated to work on Laravel 8, 9 and 10. 
 
 **All credit goes to the original authors.**
 
 A formatter package that will help you to easily convert between various formats such as XML, JSON, CSV, etc...
 
 # Goals
-The goals of this library are to allow the transfomation of data formats from one type to another.
+The goals of this library are to allow the transformation of data formats from one type to another.
 See Parsers and Formats to see supported input / output formats.
 
 # Installation
